@@ -1,0 +1,4 @@
+.vagrant
+*.vdi
+append-to-fstab.txt
+cmds.sh
